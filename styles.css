@@ -1,0 +1,23 @@
+﻿.home {
+    border: 7px solid black;
+    background-color: bisque;
+    margin: 30px;
+}
+.contact {
+    border: 7px solid black;
+    background-color: bisque;
+    margin: 30px;
+}
+.projects {
+    border: 7px solid black;
+    background-color: bisque;
+    margin: 30px;
+}
+.about {
+    border: 7px solid black;
+    background-color: bisque;
+    margin: 30px;
+}
+body {
+    background-color: slategray;
+}
